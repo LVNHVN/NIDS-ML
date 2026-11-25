@@ -1,0 +1,9 @@
+SourceFile,RowsBeforeNormal,RowsBeforeAttack,RowsRemovedNormal,RowsRemovedAttack,RowsKeptNormal,RowsKeptAttack
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv,97686,128025,2618,11,95068,128014
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv,127292,158804,4209,68110,123083,90694
+Friday-WorkingHours-Morning.pcap_ISCX.csv,188955,1956,6859,8,182096,1948
+Monday-WorkingHours.pcap_ISCX.csv,529481,0,26831,0,502650,0
+Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv,288359,36,35605,0,252754,36
+Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv,168051,2180,6015,37,162036,2143
+Tuesday-WorkingHours.pcap_ISCX.csv,431813,13832,19337,4682,412476,9150
+Wednesday-workingHours.pcap_ISCX.csv,439683,251723,22947,57967,416736,193756

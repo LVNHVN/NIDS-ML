@@ -1,0 +1,11 @@
+CaptureDay,BinaryLabel,Rows
+Monday,Normal,502650
+Monday,Attack,0
+Tuesday,Normal,412476
+Tuesday,Attack,9150
+Wednesday,Normal,416736
+Wednesday,Attack,193756
+Thursday,Normal,414790
+Thursday,Attack,2179
+Friday,Normal,400247
+Friday,Attack,220656

@@ -1,0 +1,5 @@
+CaptureDay,SourceFile,BinaryLabel,RowsRemoved
+Monday,Monday-WorkingHours.pcap_ISCX.csv,Normal,257
+Tuesday,Tuesday-WorkingHours.pcap_ISCX.csv,Normal,11620
+Wednesday,Wednesday-workingHours.pcap_ISCX.csv,Attack,66
+Wednesday,Wednesday-workingHours.pcap_ISCX.csv,Normal,16438

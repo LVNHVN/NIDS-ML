@@ -1,0 +1,28 @@
+{
+  "source_run_id": "20261114_024012_45f47887",
+  "validation_run_id": "20261114_030352_2ac39af2",
+  "selected_parameters": {
+    "criterion": "gini",
+    "max_leaf_nodes": 50000,
+    "class_weight": null,
+    "random_state": 42,
+    "max_depth": 20,
+    "min_samples_leaf": 10
+  },
+  "partition": "Test",
+  "test_read_or_used": true,
+  "metrics": {
+    "rows": 771979,
+    "TN": 643562,
+    "FP": 660,
+    "FN": 291,
+    "TP": 127466,
+    "accuracy": 0.9987681012048255,
+    "attack_precision": 0.9948488206921312,
+    "attack_recall": 0.9977222383117951,
+    "attack_f1": 0.996283457674015,
+    "macro_f1": 0.9977725733142313,
+    "fpr": 0.0010244915572582122,
+    "fnr": 0.0022777616882049515
+  }
+}

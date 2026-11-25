@@ -1,0 +1,2 @@
+Rows,SchemaColumns,ChecksumMatchesStaging,MetadataComplete,NoNonFiniteFeatures,OutputTemporary
+2572640,82,True,True,True,D:\HUST\GR2\NIDS-ML\Dataset\Processed\.staging\20261029_055919_951eee0a\cicids2017_clean.csv.gz.tmp

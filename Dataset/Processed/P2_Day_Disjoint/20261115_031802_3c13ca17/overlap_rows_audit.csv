@@ -1,0 +1,10 @@
+Partition,CaptureDay,SourceFile,BinaryLabel,Rows
+Test,Friday,Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv,Normal,3720
+Test,Friday,Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv,Normal,6549
+Test,Friday,Friday-WorkingHours-Morning.pcap_ISCX.csv,Normal,8864
+Test,Thursday,Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv,Normal,9253
+Test,Thursday,Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv,Normal,8037
+Train,Monday,Monday-WorkingHours.pcap_ISCX.csv,Normal,257
+Train,Tuesday,Tuesday-WorkingHours.pcap_ISCX.csv,Normal,11620
+Train,Wednesday,Wednesday-workingHours.pcap_ISCX.csv,Attack,66
+Train,Wednesday,Wednesday-workingHours.pcap_ISCX.csv,Normal,16438

@@ -1,0 +1,17 @@
+SourceFile,BinaryLabel,RowsBefore,RowsWithNaN,RowsWithInfinity,RowsWithAnyNonFinite,RowsRemoved,RowsAfter
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv,Normal,97718,4,32,32,32,97686
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv,Attack,128027,0,2,2,2,128025
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv,Normal,127537,15,245,245,245,127292
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv,Attack,158930,0,126,126,126,158804
+Friday-WorkingHours-Morning.pcap_ISCX.csv,Normal,189067,28,112,112,112,188955
+Friday-WorkingHours-Morning.pcap_ISCX.csv,Attack,1966,0,10,10,10,1956
+Monday-WorkingHours.pcap_ISCX.csv,Normal,529918,64,437,437,437,529481
+Monday-WorkingHours.pcap_ISCX.csv,Attack,0,0,0,0,0,0
+Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv,Normal,288566,18,207,207,207,288359
+Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv,Attack,36,0,0,0,0,36
+Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv,Normal,168186,20,135,135,135,168051
+Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv,Attack,2180,0,0,0,0,2180
+Tuesday-WorkingHours.pcap_ISCX.csv,Normal,432074,201,261,261,261,431813
+Tuesday-WorkingHours.pcap_ISCX.csv,Attack,13835,0,3,3,3,13832
+Wednesday-workingHours.pcap_ISCX.csv,Normal,440031,59,348,348,348,439683
+Wednesday-workingHours.pcap_ISCX.csv,Attack,252672,949,949,949,949,251723

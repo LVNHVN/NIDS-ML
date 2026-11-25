@@ -1,0 +1,3 @@
+Partition,Rows,Normal,Attack,AttackRatePercent,UniqueFeatureGroups
+TrainInternal,1440435,1201975,238460,16.55472131682443,1411144
+Validation,360226,300702,59524,16.524070999872304,352786

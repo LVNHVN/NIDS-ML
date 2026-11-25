@@ -1,0 +1,11 @@
+Partition,CaptureDay,BinaryLabel,Rows
+TrainInternal,Monday,Normal,401779
+TrainInternal,Tuesday,Attack,7312
+TrainInternal,Tuesday,Normal,320759
+TrainInternal,Wednesday,Attack,155055
+TrainInternal,Wednesday,Normal,320194
+Validation,Monday,Normal,100614
+Validation,Tuesday,Attack,1838
+Validation,Tuesday,Normal,80097
+Validation,Wednesday,Attack,38635
+Validation,Wednesday,Normal,80104

@@ -1,0 +1,17 @@
+Partition,OriginalLabel,BinaryLabel,Rows
+TrainInternal,BENIGN,Normal,1042732
+TrainInternal,DoS GoldenEye,Attack,8205
+TrainInternal,DoS Hulk,Attack,138431
+TrainInternal,DoS Slowhttptest,Attack,4156
+TrainInternal,DoS slowloris,Attack,4255
+TrainInternal,FTP-Patator,Attack,4737
+TrainInternal,Heartbleed,Attack,8
+TrainInternal,SSH-Patator,Attack,2575
+Validation,BENIGN,Normal,260815
+Validation,DoS GoldenEye,Attack,2081
+Validation,DoS Hulk,Attack,34350
+Validation,DoS Slowhttptest,Attack,1072
+Validation,DoS slowloris,Attack,1129
+Validation,FTP-Patator,Attack,1194
+Validation,Heartbleed,Attack,3
+Validation,SSH-Patator,Attack,644

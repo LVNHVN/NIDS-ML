@@ -1,0 +1,31 @@
+Partition,OriginalLabel,BinaryLabel,Rows
+TrainInternal,BENIGN,Normal,1201975
+TrainInternal,Bot,Attack,1104
+TrainInternal,DDoS,Attack,71666
+TrainInternal,DoS GoldenEye,Attack,5744
+TrainInternal,DoS Hulk,Attack,96445
+TrainInternal,DoS Slowhttptest,Attack,2879
+TrainInternal,DoS slowloris,Attack,3046
+TrainInternal,FTP-Patator,Attack,3385
+TrainInternal,Heartbleed,Attack,8
+TrainInternal,Infiltration,Attack,18
+TrainInternal,PortScan,Attack,51188
+TrainInternal,SSH-Patator,Attack,1755
+TrainInternal,Web Attack ï¿½ Brute Force,Attack,829
+TrainInternal,Web Attack ï¿½ Sql Injection,Attack,9
+TrainInternal,Web Attack ï¿½ XSS,Attack,384
+Validation,BENIGN,Normal,300702
+Validation,Bot,Attack,283
+Validation,DDoS,Attack,17783
+Validation,DoS GoldenEye,Attack,1408
+Validation,DoS Hulk,Attack,24372
+Validation,DoS Slowhttptest,Attack,747
+Validation,DoS slowloris,Attack,766
+Validation,FTP-Patator,Attack,791
+Validation,Heartbleed,Attack,1
+Validation,Infiltration,Attack,7
+Validation,PortScan,Attack,12586
+Validation,SSH-Patator,Attack,490
+Validation,Web Attack ï¿½ Brute Force,Attack,194
+Validation,Web Attack ï¿½ Sql Injection,Attack,5
+Validation,Web Attack ï¿½ XSS,Attack,91

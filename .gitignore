@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+
+/docs/
+
+/Dataset/CIC-IDS-2017/
+
+/Dataset/Processed/.staging/
+/Dataset/Processed/**/*.csv.gz
+
+/Dataset/Processed/**/*.joblib
+/Dataset/Processed/**/*.npy
+/Dataset/Processed/**/*.sqlite
+**/training_cache/
+**/p2_logistic_training_cache/

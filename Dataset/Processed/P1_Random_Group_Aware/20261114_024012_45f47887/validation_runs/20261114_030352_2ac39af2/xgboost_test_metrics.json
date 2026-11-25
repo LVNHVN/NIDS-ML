@@ -1,0 +1,37 @@
+{
+  "source_run_id": "20261114_024012_45f47887",
+  "validation_run_id": "20261114_030352_2ac39af2",
+  "selected_parameters": {
+    "objective": "binary:logistic",
+    "tree_method": "hist",
+    "device": "cpu",
+    "max_bin": 128,
+    "learning_rate": 0.1,
+    "subsample": 0.8,
+    "colsample_bytree": 0.8,
+    "reg_lambda": 1,
+    "scale_pos_weight": 1,
+    "random_state": 42,
+    "n_jobs": 4,
+    "max_depth": 6,
+    "n_estimators": 250,
+    "min_child_weight": 1
+  },
+  "xgboost_version": "3.2.0",
+  "partition": "Test",
+  "test_read_or_used": true,
+  "metrics": {
+    "rows": 771979,
+    "TN": 643824,
+    "FP": 398,
+    "FN": 212,
+    "TP": 127545,
+    "accuracy": 0.9992098230651352,
+    "attack_precision": 0.9968892397395716,
+    "attack_recall": 0.9983405997323043,
+    "attack_f1": 0.9976143918654673,
+    "macro_f1": 0.9985704421147872,
+    "fpr": 0.0006177994542254068,
+    "fnr": 0.0016594002676957036
+  }
+}

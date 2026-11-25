@@ -1,0 +1,86 @@
+{
+  "source_run_id": "20261114_024012_45f47887",
+  "validation_run_id": "20261114_030352_2ac39af2",
+  "sklearn_version": "1.7.2",
+  "selected_parameters": {
+    "activation": "relu",
+    "alpha": 0.0001,
+    "batch_size": 1024,
+    "early_stopping": false,
+    "learning_rate_init": 0.001,
+    "max_iter": 100,
+    "random_state": 42,
+    "solver": "adam",
+    "hidden_layer_sizes": [
+      64
+    ]
+  },
+  "selection_rule": "highest macro_f1; on exact tie, fewer hidden units",
+  "early_stopping": false,
+  "test_read_or_used": false,
+  "results": [
+    {
+      "hidden_units": 32,
+      "fit_seconds": 197.79560969999997,
+      "n_iter": 100,
+      "final_loss": 0.016974787179891076,
+      "convergence_warnings": [
+        "Stochastic Optimizer: Maximum iterations (100) reached and the optimization hasn't converged yet."
+      ],
+      "rows": 360226,
+      "TN": 300257,
+      "FP": 445,
+      "FN": 930,
+      "TP": 58594,
+      "accuracy": 0.9961829518135837,
+      "attack_precision": 0.9924626094615424,
+      "attack_recall": 0.98437604999664,
+      "attack_f1": 0.9884027900778489,
+      "macro_f1": 0.9930591578490107,
+      "fpr": 0.0014798704365118955,
+      "fnr": 0.015623950003359989
+    },
+    {
+      "hidden_units": 64,
+      "fit_seconds": 262.2095371,
+      "n_iter": 100,
+      "final_loss": 0.014069180622385257,
+      "convergence_warnings": [
+        "Stochastic Optimizer: Maximum iterations (100) reached and the optimization hasn't converged yet."
+      ],
+      "rows": 360226,
+      "TN": 300153,
+      "FP": 549,
+      "FN": 645,
+      "TP": 58879,
+      "accuracy": 0.9966854141566683,
+      "attack_precision": 0.990761930403177,
+      "attack_recall": 0.9891640346750891,
+      "attack_f1": 0.9899623377496806,
+      "macro_f1": 0.9939886501715984,
+      "fpr": 0.001825727796955125,
+      "fnr": 0.01083596532491096
+    },
+    {
+      "hidden_units": 128,
+      "fit_seconds": 384.61258550000014,
+      "n_iter": 100,
+      "final_loss": 0.01295796499396957,
+      "convergence_warnings": [
+        "Stochastic Optimizer: Maximum iterations (100) reached and the optimization hasn't converged yet."
+      ],
+      "rows": 360226,
+      "TN": 300234,
+      "FP": 468,
+      "FN": 843,
+      "TP": 58681,
+      "accuracy": 0.9963606180564424,
+      "attack_precision": 0.9920877783225414,
+      "attack_recall": 0.985837645319535,
+      "attack_f1": 0.9889528367868007,
+      "macro_f1": 0.9933871480798799,
+      "fpr": 0.0015563581219945328,
+      "fnr": 0.014162354680465023
+    }
+  ]
+}
